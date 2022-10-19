@@ -16,6 +16,7 @@ Computer Science Student At New York Tech
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" width="40" height="40" alt="LaTeX" /></a>
 <a href="https://openjfx.io/" target="_blank" rel="noreferrer"><img src= "https://miro.medium.com/max/400/1*9tVpRN7cCovFMavU4PVg2w.png" width="40" height="40" alt="JavaFX" /></a>
+ <a href="https://www.smlnj.org/" target="_blank" rel="noreferrer"><img src= " https://smlnj.org/images/smlnj-logo.png" width="45" height="40" alt="smlnj" /></a>
     
 </p>
 </p>
