@@ -15,7 +15,7 @@ Computer Science Student At New York Tech
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" width="40" height="40" alt="LaTeX" /></a>
-<a href="https://openjfx.io/" target="_blank" rel="noreferrer"><img src= "https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/communityIcon_4v21sx0aiam41.png?fit=256%2C171&ssl=1" width="40" height="40" alt="JavaFX" /></a>
+<a href="https://openjfx.io/" target="_blank" rel="noreferrer"><img src= "https://miro.medium.com/max/400/1*9tVpRN7cCovFMavU4PVg2w.png" width="40" height="40" alt="JavaFX" /></a>
     
 </p>
 </p>
