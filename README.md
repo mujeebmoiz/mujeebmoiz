@@ -17,7 +17,10 @@ Computer Science Student At New York Tech
  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" width="40" height="40" alt="LaTeX" /></a>
 <a href="https://openjfx.io/" target="_blank" rel="noreferrer"><img src= "https://miro.medium.com/max/400/1*9tVpRN7cCovFMavU4PVg2w.png" width="40" height="40" alt="JavaFX" /></a>
 <a href="https://www.smlnj.org/" target="_blank" rel="noreferrer"><img src= "https://smlnj.org/images/smlnj-logo.png" width="45" height="40" alt="smlnj" /></a>
-    
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"><img src= "https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="45" height="40" alt="SceneBuilder" /></a>
+ <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/1200px-Microsoft_Office_Access_%282019-present%29.svg.png" width="45" height="40" alt="microsoftAccess" /></a>
+  <a href="https://www.microsoft.com/en-ww/microsoft-365/word" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftWord" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftExcel" /></a>
 </p>
 </p>
 
