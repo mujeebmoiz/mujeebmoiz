@@ -36,5 +36,3 @@ Computer Science Student At New York Tech
 <a href="http://www.github.com/mujeebmoiz"><img src="https://github-readme-stats.vercel.app/api?username=mujeebmoiz&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=444e59&bg_color=0f172a&hide_border=true&show_icons=true" alt="mujeebmoiz's GitHub stats" /></a>
 
 <a href="http://www.github.com/mujeebmoiz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebmoiz&stroke=3382ed&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="http://www.github.com/mujeebmoiz"><img src="https://activity-graph.herokuapp.com/graph?username=mujeebmoiz&bg_color=0f172a&color=3382ed&line=444e59&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
