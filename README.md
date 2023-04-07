@@ -21,7 +21,7 @@ Computer Science Student At New York Tech
  <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/1200px-Microsoft_Office_Access_%282019-present%29.svg.png" width="45" height="40" alt="microsoftAccess" /></a>
   <a href="https://www.microsoft.com/en-ww/microsoft-365/word" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftWord" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftExcel" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src= "https://banner2.cleanpng.com/20180519/svv/kisspng-mysql-database-dump-computer-icons-5b00379f39bc81.8835568115267408952365.jpg" width="45" height="40" alt="MySQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src= "[https://banner2.cleanpng.com/20180519/svv/kisspng-mysql-database-dump-computer-icons-5b00379f39bc81.8835568115267408952365.jpg](https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png)" width="45" height="40" alt="MySQL" /></a>
 </p>
 </p>
 
