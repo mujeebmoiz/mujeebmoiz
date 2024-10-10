@@ -22,6 +22,9 @@ Computer Science Graduate
   <a href="https://www.microsoft.com/en-ww/microsoft-365/word" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftWord" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftExcel" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src= "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="45" height="40" alt="MySQL" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src= "![image](https://github.com/user-attachments/assets/d2e376d8-9c72-494d-9250-ff4b265c788f)
+" width="45" height="40" alt="JavaScript" /></a>
+
 </p>
 </p>
 
