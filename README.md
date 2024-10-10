@@ -1,7 +1,7 @@
 Hi 👋 My name is Mujeeb Moiz
 ============================
 
-Computer Science Student At New York Tech
+Computer Science Graduate
 -----------------------------------------
 
 * ✉️  You can contact me at [mujeebmoiz23@gmail.com](mailto:mujeebmoiz23@gmail.com)
