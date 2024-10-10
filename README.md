@@ -22,7 +22,7 @@ Computer Science Graduate
   <a href="https://www.microsoft.com/en-ww/microsoft-365/word" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftWord" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45" height="40" alt="MicrosoftExcel" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src= "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="45" height="40" alt="MySQL" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Djavascript%2BLogo&psig=AOvVaw1fAZw1paB7V0DZWz99TusT&ust=1728612947129000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjJjpbfgokDFQAAAAAdAAAAABAk" width="45" height="40" alt="JavaScript" /></a>
+
 
 </p>
 </p>
