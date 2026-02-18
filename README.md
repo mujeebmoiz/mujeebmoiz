@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FitBuddy](https://github.com/Mian56/FitBuddy_App)
 
-- 🌱 I’m currently learning ** Springboot, AWS **
+- 🌱 I’m currently learning **Springboot and AWS**
 
 - 📫 How to reach me **mujeebmoiz23@gmail.com**
 
